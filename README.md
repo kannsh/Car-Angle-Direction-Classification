@@ -1,2 +1,4 @@
-# Car-Angle-Direction-Classification
-Car Angle Direction Classification
+# Download Dataset & Tips
+https://www.kaggle.com/fushenggg/rc-car-tub-dataset
+
+
