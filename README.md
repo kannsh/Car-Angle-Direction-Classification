@@ -14,14 +14,18 @@ Drag the saved model and place in CWD
 
 # Running the notebook 
 1. Check where your CWD is located at
+
 To view your CWD import os os.getcwd()
+
 Mine is 'C:\Users\kansh\Desktop\FYP'
 
 2. Loading of folder from CWD (Changes to make)
+
 Windows uses "\\" & Linux uses "//" for directory path
 
 # There are TWO WAYS to LOAD the folder from directory path
-1. filenames = os.listdir('C:\\Users\\kansh\\Desktop\\FYP\\tub280_copy\\tub_280_20-02-01(Copywithmeta)\\' OR
+1. filenames = os.listdir('C:\\Users\\kansh\\Desktop\\FYP\\tub280_copy\\tub_280_20-02-01(Copywithmeta)\\'
+
 2. filenames = os.listdir('tub280_copy\\tub_280_20-02-01(Copywithmeta)')
 
 
