@@ -7,7 +7,9 @@
 *Contains SavedModel1.h5 file to load model (Saves time from training)
 
 Unzip the file and place the 'tub280_copy' folder into your CWD (current working directory) 
+
 Download the ipynb files and place in CWD
+
 Drag the saved model and place in CWD 
 
 # Running the notebook 
